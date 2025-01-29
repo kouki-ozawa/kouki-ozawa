@@ -6,7 +6,7 @@
 
 ## Frameworks and Library
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,fastapi,laravel" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,laravel" /> <br /><br />
 
 ## DB and Dev Tools etc
 
