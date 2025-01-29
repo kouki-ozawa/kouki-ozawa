@@ -6,8 +6,8 @@
 
 ## Frameworks and Library
 
-<img src="https://skillicons.dev/icons?i=react,next,vue,nuxt,nodejs,express,flask,fastapi,laravel,wordpress" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,fastapi,laravel" /> <br /><br />
 
 ## DB and Dev Tools etc
 
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,docker,git,github,vscode,linux,aws,azure,figma,nginx" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux" /> <br /><br />
