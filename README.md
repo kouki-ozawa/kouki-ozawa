@@ -10,4 +10,4 @@
 
 ## DB and Dev Tools etc
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux,anaconda" /> <br /><br />
