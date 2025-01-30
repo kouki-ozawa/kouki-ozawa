@@ -2,11 +2,11 @@
 
 ## Programming Languages
 
-<img src="https://skillicons.dev/icons?i=css,js,typescript,python,r,c,cpp,latex,	" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=css,js,typescript,python,r,c,cpp,latex" /> <br /><br />
 
 ## Frameworks and Library
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,laravel,pytorch	" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,laravel,pytorch" /> <br /><br />
 
 ## DB and Dev Tools etc
 
