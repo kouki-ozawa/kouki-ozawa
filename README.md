@@ -6,7 +6,7 @@
 
 ## Frameworks and Library
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,pytorch" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=react,nodejs,next.js,fastapi,pytorch" /> <br /><br />
 
 ## DB and Dev Tools etc
 
